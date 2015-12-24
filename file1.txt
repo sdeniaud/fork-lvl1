@@ -1,5 +1,6 @@
 {
-	"prop1" : 12,
+	"prop2" : "val2",
 	"prop3" : 15,
-	"prop2" : "val2"
+	"prop4" : 4,
+	"prop1" : 12
 }
