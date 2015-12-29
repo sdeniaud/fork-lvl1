@@ -1,6 +1,4 @@
-{
-	"prop2" : "val2",
-	"prop3" : 15,
-	"prop4" : 4,
-	"prop1" : 16
-}
+ligne 1
+ligne 2
+ligne 3
+ligne 4
